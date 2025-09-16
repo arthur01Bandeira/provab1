@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
     color: "#f2f2f2"
   },
   emptylist: {
-    padding: 24,
+    padding: 10,
     width:300,
     height: 500,
     backgroundColor:"#7A4A9E",
